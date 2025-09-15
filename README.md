@@ -5,7 +5,6 @@
 
 [![Website](https://img.shields.io/badge/Website-jeremygaither.com-blue?style=flat-square&logo=google-chrome)](https://jeremygaither.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremygaither-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jeremygaither)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:jeremy@jeremygaither.com)
 
 </div>
 
@@ -15,7 +14,7 @@
 
 I'm a passionate software engineer with a strong focus on **DevOps**, **automation**, and **infrastructure as code**. I enjoy building robust solutions that streamline development workflows and enhance system reliability.
 
-- 🔭 Currently working on **studio-agents** and exploring modern development practices
+- 🔭 Currently working on **personal projects** and exploring modern development practices
 - 🌱 Continuously learning about **cloud infrastructure**, **containerization**, and **CI/CD pipelines**
 - 💼 Experience with **enterprise software development** and **system automation**
 - 🎯 Passionate about **code quality**, **best practices**, and **developer productivity**
@@ -29,7 +28,6 @@ I'm a passionate software engineer with a strong focus on **DevOps**, **automati
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Tools & Technologies
@@ -40,7 +38,7 @@ I'm a passionate software engineer with a strong focus on **DevOps**, **automati
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
 
@@ -60,7 +58,6 @@ I'm a passionate software engineer with a strong focus on **DevOps**, **automati
 
 ## 🎯 Current Focus
 
-- 🔧 **Studio Agents**: Working on innovative development tools and automation
 - 📚 **Code Katas**: Practicing and refining coding skills through deliberate practice
 - 🚀 **DevOps Excellence**: Streamlining deployment pipelines and infrastructure automation
 - 💡 **Open Source**: Contributing to projects that make developers' lives easier
@@ -75,7 +72,6 @@ I'm always interested in connecting with fellow developers, sharing knowledge, a
 
 [![Website](https://img.shields.io/badge/🌐_Website-jeremygaither.com-blue?style=for-the-badge)](https://jeremygaither.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeremygaither)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:jeremy@jeremygaither.com)
 
 </div>
 
