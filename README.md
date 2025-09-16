@@ -14,7 +14,7 @@
 
 I'm a passionate software engineer with a strong focus on **DevOps**, **automation**, and **infrastructure as code**. I enjoy building robust solutions that streamline development workflows and enhance system reliability.
 
-- 🔭 Currently working on **personal projects** and exploring modern development practices
+- 🔭 Currently working on **personal projects**, **AI-focused side projects**, and exploring modern development practices
 - 🌱 Continuously learning about **cloud infrastructure**, **containerization**, and **CI/CD pipelines**
 - 💼 Experience with **enterprise software development** and **system automation**
 - 🎯 Passionate about **code quality**, **best practices**, and **developer productivity**
@@ -27,6 +27,7 @@ I'm a passionate software engineer with a strong focus on **DevOps**, **automati
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -40,7 +41,7 @@ I'm a passionate software engineer with a strong focus on **DevOps**, **automati
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
@@ -58,7 +59,6 @@ I'm a passionate software engineer with a strong focus on **DevOps**, **automati
 
 ## 🎯 Current Focus
 
-- 📚 **Code Katas**: Practicing and refining coding skills through deliberate practice
 - 🚀 **DevOps Excellence**: Streamlining deployment pipelines and infrastructure automation
 - 💡 **Open Source**: Contributing to projects that make developers' lives easier
 
